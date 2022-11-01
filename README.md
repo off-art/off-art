@@ -19,6 +19,5 @@ I <a href="#"><img alt="" src="icons/heart.svg" width="14"></a> Frontend
 <a href="#"><img alt="sass" src="icons/sass.svg" width="16"></a>
 <a href="#"><img alt="nodeJs" src="icons/nodejs.svg" width="16"></a>
 <a href="#"><img alt="vscode" src="icons/vscode.svg" width="16"></a>
-<a href="#"><img alt="git" src="icons/git.svg" width="16"></a>
 <a href="#"><img alt="mongodb" src="icons/mongodb.svg" width="16"></a>
 <a href="#"><img alt="ubuntu" src="icons/ubuntu.svg" width="16"></a>
